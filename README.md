@@ -9,7 +9,7 @@ The required steps were applied according to the advisory of [elasticsearch blog
 
 ## Usage
 
-Please cunsult the official `elasticsearch` repo: https://hub.docker.com/_/elasticsearch
+Please consult the official `elasticsearch` repo: https://hub.docker.com/_/elasticsearch
 
 
 ## Contributing
