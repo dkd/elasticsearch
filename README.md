@@ -11,7 +11,6 @@ The required steps were applied according to the advisory of [elasticsearch blog
 
 Please consult the official `elasticsearch` repo: https://hub.docker.com/_/elasticsearch
 
-
 ## Contributing
 
 * Fork the repo.
